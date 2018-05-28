@@ -98,7 +98,7 @@ export default {
 }
 .mint-navbar.is-fixed {
     top: 5rem;
-    height: 3rem;
+    height: 4rem;
 }
 
 .mint-tab-item-label {
@@ -107,9 +107,9 @@ export default {
 
 .main {
     width: 100%;
-    height:calc(100% - 8rem);
+    height:calc(100% - 9rem);
     position: fixed;
-    top: 8rem;
+    top: 9rem;
     margin-top:5px;
     overflow:auto;
 }

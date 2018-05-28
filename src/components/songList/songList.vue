@@ -11,7 +11,5 @@ export default {
 </script>
 
 <style>
-.mint-swipe{
-    height:15.4rem;
-}
+
 </style>
